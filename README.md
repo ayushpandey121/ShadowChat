@@ -1,6 +1,5 @@
-# Viloir 🎉
-
-Viloir is a fun and interactive app designed for college students to connect randomly with each other. Inspired by Omegle, Viloir uses cutting-edge technologies like Firebase for authentication 🔒 and PeerJS to establish seamless connections 🌐 between users. It's the perfect platform for spontaneous conversations 💬 and meeting new friends online!  
+# ShadowChat 🎉
+Shadowchat is a fun and interactive app designed for college students to connect randomly with each other. Inspired by Omegle,  uses cutting-edge technologies like Firebase for authentication 🔒 and PeerJS to establish seamless connections 🌐 between users. It's the perfect platform for spontaneous conversations 💬 and meeting new friends online!  
 
 ## Features ✨
 
@@ -14,8 +13,8 @@ Viloir is a fun and interactive app designed for college students to connect ran
 Clone the repository and install the required dependencies:  
 
 ```bash
-git clone https://github.com/yourusername/viloir.git
-cd viloir
+git clone https://github.com/yourusername/Shadowchat.git
+cd Shadowchat
 open index.html
 ```
 
